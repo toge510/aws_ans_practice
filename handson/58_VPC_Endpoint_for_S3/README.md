@@ -44,7 +44,7 @@ terraform {
 ### git clone 
 
 ```bash
-git clone https://github.com/toge510/aws_ens_practice.git
+git clone https://github.com/toge510/aws_ans_practice.git
 cd aws_ens_practice
 ```
 
