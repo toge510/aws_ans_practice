@@ -2,7 +2,7 @@
 
 ## 構成図
 
-<img src="./diagram-export-7-22-2025-1_30_41-AM.png">
+<img src="./58.png">
 
 ## 準備
 
